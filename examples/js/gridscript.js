@@ -26,7 +26,7 @@ var queued  = [];
 var loopcount = 0;
 var dataType = {};
 if( window.Worker)
-var primeWorker = new Worker('./slicklib/worker.js');
+var primeWorker = new Worker('js/worker.js');
 
 var columnFilters = {};
 
@@ -67,7 +67,7 @@ function detectdata(key,data){
 
   switch(key) {
     case '$51':
-        
+          
           if(Date.parse(data)){
             var date = Number(JSDateToExcelDate(new Date(data)));
             return {value:date, metadata: {style: dateformat.id}}
@@ -98,15 +98,14 @@ function getExceldata() {
           var selectedData =[];
           var count = 0;
           if(selectedIndexes.length>0){
-          
+            return [selectedIndexes,'checked'];
+
           for(index in selectedIndexes){
               formatedarray = [];
               for(key in dataView.getItem(index)){
                 for(columnkey in columns){
                         if(columns[columnkey]['field']==key){
-                             var formateddata = detectdata(key,data[index][key]);    
-                              formatedarray.push(formateddata);
-                           // formatedarray.push(data[index][key]);
+                            formatedarray.push(data[index][key]);
                         }
                       }
               }
@@ -137,7 +136,7 @@ function createdata(){
       var albumList = artistWorkbook.createWorksheet({name: 'Album List'});
       var  columns         = [];
        dateformat = artistWorkbook.getStyleSheet().createFormat({
-          format: 'YYYY-mm-dd hh:mm:ss AM/PM'
+          format: 'mm-dd-yy hh:mm:ss AM/PM'
       });
 
 

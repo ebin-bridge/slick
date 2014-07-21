@@ -1,0 +1,996 @@
+{
+"@timestamp": "20140707T101052,24Z",
+"@toplevelentries": "552",
+"viewentry": [
+{
+"@position": "1",
+"@unid": "045C9DDFDC7AB308C1257C1B002E11F1",
+"@noteid": "CEE",
+"@siblings": "552",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "SiteID",
+"text": {
+"0": "28202"
+}
+},
+{
+"@columnnumber": "1",
+"@name": "$51",
+"datetime": {
+"0": "20131106T092312,49+01"
+}
+},
+{
+"@columnnumber": "2",
+"@name": "$14",
+"text": {
+"0": "Alingsås"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "$30",
+"text": {
+"0": "441 30"
+}
+},
+{
+"@columnnumber": "4",
+"@name": "$28",
+"text": {
+"0": "[<span class=\"link\" nr=\"28202\" onclick=\"javascript:openAnlaggning('/kund/Bridge/Main.nsf/AnlOkatSamtligaFaltCopy/045C9DDFDC7AB308C1257C1B002E11F1?OpenDocument&urval=1');\" \u003EAlingsås Järnvägsstation</span\u003E]"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "$22",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "6",
+"@name": "$52",
+"text": {
+"0": "[<span class=\"ui-icon ui-icon-mail-open\" \u003E</span\u003E]"
+}
+},
+{
+"@columnnumber": "7",
+"@name": "$31",
+"text": {
+"0": "Alingsås"
+}
+},
+{
+"@columnnumber": "8",
+"@name": "$32",
+"text": {
+"0": "Alingsås Järnvägsstation"
+}
+},
+{
+"@columnnumber": "9",
+"@name": "$33",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "10",
+"@name": "$21",
+"text": {
+"0": "Alingsås"
+}
+},
+{
+"@columnnumber": "11",
+"@name": "SitePhone",
+"text": {
+"0": "0322-103 59"
+}
+},
+{
+"@columnnumber": "12",
+"@name": "SiteFax",
+"text": {
+"0": "0322-103 59"
+}
+},
+{
+"@columnnumber": "13",
+"@name": "$47",
+"text": {
+"0": "[<a class='link' href=\"mailto:pb28202@pressbyran.se\"\u003Epb28202@pressbyran.se</a\u003E]"
+}
+},
+{
+"@columnnumber": "14",
+"@name": "$23",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "15",
+"@name": "$25",
+"text": {
+"0": "Pressbyrån"
+}
+},
+{
+"@columnnumber": "16",
+"@name": "SitePlatform",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "17",
+"@name": "SiteStationType",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "18",
+"@name": "$27",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "19",
+"@name": "LockNo",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "20",
+"@name": "SupplyLocation",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "21",
+"@name": "dtSiteOpened",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "22",
+"@name": "$35",
+"text": {
+"0": "4228202 Alingsås Ab"
+}
+},
+{
+"@columnnumber": "23",
+"@name": "$24",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "24",
+"@name": "SiteMgrPhone",
+"text": {
+"0": "0322-103 59"
+}
+},
+{
+"@columnnumber": "25",
+"@name": "SiteMgrCell",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "26",
+"@name": "$38",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "27",
+"@name": "$39",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "28",
+"@name": "SiteActMgrPhone",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "29",
+"@name": "SiteActMgrCell",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "30",
+"@name": "$42",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "31",
+"@name": "SiteRegion",
+"text": {
+"0": "8 Göteborg"
+}
+},
+{
+"@columnnumber": "32",
+"@name": "$40",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "33",
+"@name": "SiteRMgrPhone",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "34",
+"@name": "$43",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "35",
+"@name": "SiteDistrict",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "36",
+"@name": "$41",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "37",
+"@name": "SiteDMgrPhone",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "38",
+"@name": "SiteDMgrEmail",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "39",
+"@name": "SiteOwner",
+"text": {
+"0": "Reitan Convenience Sweden AB"
+}
+},
+{
+"@columnnumber": "40",
+"@name": "SiteOrgNo",
+"text": {
+"0": "556795-2154"
+}
+},
+{
+"@columnnumber": "41",
+"@name": "SiteSLA",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "42",
+"@name": "SiteGrpIncType",
+"text": {
+"0": "Reitan Convenience Sweden AB"
+}
+},
+{
+"@columnnumber": "43",
+"@name": "SiteTechResp",
+"text": {
+"0": "Johan Säfkvist"
+}
+},
+{
+"@columnnumber": "44",
+"@name": "SiteAccountNo",
+"text": {
+"0": "4228202"
+}
+},
+{
+"@columnnumber": "45",
+"@name": "ExtRefNo1",
+"text": {
+"0": "100300"
+}
+}
+]
+},
+{
+"@position": "2",
+"@unid": "C53D6D2A52341473C1257C1B002E126F",
+"@noteid": "EE6",
+"@siblings": "552",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "SiteID",
+"text": {
+"0": "25360"
+}
+},
+{
+"@columnnumber": "1",
+"@name": "$51",
+"datetime": {
+"0": "20131106T092313,75+01"
+}
+},
+{
+"@columnnumber": "2",
+"@name": "$14",
+"text": {
+"0": "Alvesta"
+}
+},
+{
+"@columnnumber": "3",
+"@name": "$30",
+"text": {
+"0": "342 30"
+}
+},
+{
+"@columnnumber": "4",
+"@name": "$28",
+"text": {
+"0": "[<span class=\"link\" nr=\"25360\" onclick=\"javascript:openAnlaggning('/kund/Bridge/Main.nsf/AnlOkatSamtligaFaltCopy/C53D6D2A52341473C1257C1B002E126F?OpenDocument&urval=1');\" \u003EJärnvägsstation</span\u003E]"
+}
+},
+{
+"@columnnumber": "5",
+"@name": "$22",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "6",
+"@name": "$52",
+"text": {
+"0": "[<span class=\"ui-icon ui-icon-mail-open\" \u003E</span\u003E]"
+}
+},
+{
+"@columnnumber": "7",
+"@name": "$31",
+"text": {
+"0": "Alvesta"
+}
+},
+{
+"@columnnumber": "8",
+"@name": "$32",
+"text": {
+"0": "Järnvägsstation"
+}
+},
+{
+"@columnnumber": "9",
+"@name": "$33",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "10",
+"@name": "$21",
+"text": {
+"0": "Alvesta"
+}
+},
+{
+"@columnnumber": "11",
+"@name": "SitePhone",
+"text": {
+"0": "0472-442 25"
+}
+},
+{
+"@columnnumber": "12",
+"@name": "SiteFax",
+"text": {
+"0": "0472-442 25"
+}
+},
+{
+"@columnnumber": "13",
+"@name": "$47",
+"text": {
+"0": "[<a class='link' href=\"mailto:pb25360@pressbyran.se\"\u003Epb25360@pressbyran.se</a\u003E]"
+}
+},
+{
+"@columnnumber": "14",
+"@name": "$23",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "15",
+"@name": "$25",
+"text": {
+"0": "Pressbyrån"
+}
+},
+{
+"@columnnumber": "16",
+"@name": "SitePlatform",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "17",
+"@name": "SiteStationType",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "18",
+"@name": "$27",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "19",
+"@name": "LockNo",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "20",
+"@name": "SupplyLocation",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "21",
+"@name": "dtSiteOpened",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "22",
+"@name": "$35",
+"text": {
+"0": "4325360 L.S Servicehandel Ab"
+}
+},
+{
+"@columnnumber": "23",
+"@name": "$24",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "24",
+"@name": "SiteMgrPhone",
+"text": {
+"0": "0472-442 25"
+}
+},
+{
+"@columnnumber": "25",
+"@name": "SiteMgrCell",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "26",
+"@name": "$38",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "27",
+"@name": "$39",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "28",
+"@name": "SiteActMgrPhone",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "29",
+"@name": "SiteActMgrCell",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "30",
+"@name": "$42",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "31",
+"@name": "SiteRegion",
+"text": {
+"0": "9 Blekinge, Småland & Östergötland"
+}
+},
+{
+"@columnnumber": "32",
+"@name": "$40",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "33",
+"@name": "SiteRMgrPhone",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "34",
+"@name": "$43",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "35",
+"@name": "SiteDistrict",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "36",
+"@name": "$41",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "37",
+"@name": "SiteDMgrPhone",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "38",
+"@name": "SiteDMgrEmail",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "39",
+"@name": "SiteOwner",
+"text": {
+"0": "Reitan Convenience Sweden AB"
+}
+},
+{
+"@columnnumber": "40",
+"@name": "SiteOrgNo",
+"text": {
+"0": "556764-2946"
+}
+},
+{
+"@columnnumber": "41",
+"@name": "SiteSLA",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "42",
+"@name": "SiteGrpIncType",
+"text": {
+"0": "Reitan Convenience Sweden AB"
+}
+},
+{
+"@columnnumber": "43",
+"@name": "SiteTechResp",
+"text": {
+"0": "Johan Säfkvist"
+}
+},
+{
+"@columnnumber": "44",
+"@name": "SiteAccountNo",
+"text": {
+"0": "4325360"
+}
+},
+{
+"@columnnumber": "45",
+"@name": "ExtRefNo1",
+"text": {
+"0": ""
+}
+}
+]
+},
+{
+"@position": "553",
+"@noteid": "C0000000",
+"@siblings": "552",
+"@categorytotal": "true",
+"entrydata": [
+{
+"@columnnumber": "0",
+"@name": "SiteID",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "1",
+"@name": "$51",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "2",
+"@name": "$14",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "3",
+"@name": "$30",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "4",
+"@name": "$28",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "5",
+"@name": "$22",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "6",
+"@name": "$52",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "7",
+"@name": "$31",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "8",
+"@name": "$32",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "9",
+"@name": "$33",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "10",
+"@name": "$21",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "11",
+"@name": "SitePhone",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "12",
+"@name": "SiteFax",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "13",
+"@name": "$47",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "14",
+"@name": "$23",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "15",
+"@name": "$25",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "16",
+"@name": "SitePlatform",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "17",
+"@name": "SiteStationType",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "18",
+"@name": "$27",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "19",
+"@name": "LockNo",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "20",
+"@name": "SupplyLocation",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "21",
+"@name": "dtSiteOpened",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "22",
+"@name": "$35",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "23",
+"@name": "$24",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "24",
+"@name": "SiteMgrPhone",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "25",
+"@name": "SiteMgrCell",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "26",
+"@name": "$38",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "27",
+"@name": "$39",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "28",
+"@name": "SiteActMgrPhone",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "29",
+"@name": "SiteActMgrCell",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "30",
+"@name": "$42",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "31",
+"@name": "SiteRegion",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "32",
+"@name": "$40",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "33",
+"@name": "SiteRMgrPhone",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "34",
+"@name": "$43",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "35",
+"@name": "SiteDistrict",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "36",
+"@name": "$41",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "37",
+"@name": "SiteDMgrPhone",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "38",
+"@name": "SiteDMgrEmail",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "39",
+"@name": "SiteOwner",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "40",
+"@name": "SiteOrgNo",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "41",
+"@name": "SiteSLA",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "42",
+"@name": "SiteGrpIncType",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "43",
+"@name": "SiteTechResp",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "44",
+"@name": "SiteAccountNo",
+"text": {
+"0": ""
+}
+},
+{
+"@columnnumber": "45",
+"@name": "ExtRefNo1",
+"text": {
+"0": ""
+}
+}
+]
+}
+]
+}
